@@ -1,4 +1,4 @@
-## In ModStartCMS v8.8.0, I found OpenRedirect Vulnerability in param "redirect" of login feature </br>
+## In ModStartCMS v8.8.0, I found OpenRedirect Vulnerability in param "redirect" of admin login feature </br>
 
 ModStart CMS v8.8.0: https://github.com/modstart/ModStartCMS</br>
 ## Reproduce bug:</br>
